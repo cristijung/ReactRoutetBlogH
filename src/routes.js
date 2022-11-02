@@ -7,10 +7,9 @@ import SobreMim from "./pages/SobreMim";
 
 function AppRoutes() {
   return (
-    <>
-    <Menu />
+    <>    
     <BrowserRouter>
-
+        <Menu />
       <Routes>      
         <Route path="/" element={<Inicio />} />
         <Route path="/SobreMim" element={<SobreMim />} />
