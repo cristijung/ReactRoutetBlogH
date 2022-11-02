@@ -1,10 +1,12 @@
+import Banner from "components/Banner"; //configuração de importação absoluta do React
 
 function Inicio () {
     return(
         <>
-
-        <h1> Este é o início </h1>
-
+        <main>
+            <Banner />        
+           <h1> Este é o início </h1>
+        </main>
         </>
     );
 }

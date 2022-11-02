@@ -1,5 +1,5 @@
 import styles from './Banner.module.css';
-import minhaFoto from './assets/minha_foto.png';
+import minhaFoto from '../../assets/minha-foto.png';
 
 export default function Banner() {
     return(
@@ -7,7 +7,7 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>
-                Rhaenyra targaryen
+                Rhaenyra Targaryen
                 </h1>
 
                 <p className={styles.paragrafo}>
