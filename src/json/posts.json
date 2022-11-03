@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Rhaenyra Targaryen",
+        "texto": "Rhaenyra Targaryen foi a filha mais velha do Rei Viserys I. Ela disputou o Trono de Ferro com seu meio-irmão mais novo, Aegon II, numa guerra civil que ficou conhecida como Dança dos Dragões. Foi casada duas vezes e mãe de cinco filhos, entres os quais Aegon e Viserys, sendo que ambos se tornaram reis após sua morte. Ela era uma cavaleira de dragão, montando Syrax."
+        
+    },
+    {
+        "id": 2,
+        "titulo": "Daemon Targaryen",
+        "texto": "O Príncipe Daemon Targaryen foi o tio e marido da Princesa Rhaenyra Targaryen. Foi seu segundo marido, tendo sido antecedido por Laenor Velaryon. Ele era o filho mais novo de Baelon Targaryen, e irmão de Viserys I. O Príncipe Daemon foi o guerreiro mais experiente de seu tempo e portava a Irmã Negra, espada de Visenya Targaryen feita de aço valiriano. Seu dragão se chamava Caraxes."
+        
+    },
+    {
+        "id": 3,
+        "titulo": "Aemond Targaryen",
+        "texto": "Príncipe Aemond Targaryen, também conhecido como Aemond Um-Olho (ou Caolho) e Aemond Assassino de Parentes, foi um membro da Casa Targaryen. Seus pais foram Alicent Hightower e o rei Viserys I Targaryen. Ele foi irmão do rei Aegon II Targaryen e do príncipe Daeron. Ele foi um domador cujo dragão foi Vhagar."
+        
+    },
+    {
+        "id": 4,
+        "titulo": "Corlys Velaryon",
+        "texto": "Lorde Corlys Velaryon, conhecido como Serpente do Mar, foi um lendário Senhor das Marés, Mestre de Derivamarca e chefe da Casa Velaryon. Ele era o marido da princesa Rhaenys Targaryen. Durante a Dança dos Dragões, ele se tornou Mão da Rainha Rhaenyra Targaryen"
+        
+    },
+    {
+        "id": 5,
+        "titulo": "Viserys I Targaryen",
+        "texto": "Viserys I foi o quinto rei Targaryen a se sentar no Trono de Ferro.[3] Sucedeu seu avô, Jaehaerys, o Conciliador. Viserys deu continuidade ao reinado próspero e pacífico de seu avô,[4] mas as sementes para a guerra civil conhecida como Dança dos Dragões, evento que muito mais tarde engolfaria o reino, foram semeadas em seu governo."
+        
+    },
+    {
+        "id": 6,
+        "titulo": "Otto Hightower",
+        "texto": "Sor Otto Hightower foi um cavaleiro da Casa Hightower que serviu como Mão do Rei para três reis, embora dois dos reis o tenham removido do cargo diversas vezes.[4] Ele era o irmão mais novo do Lorde Hightower, e o tio de Lorde Ormund Hightower de Vilavelha."
+        
+    },
+    {
+        "id": 7,
+        "titulo": "Criston Cole",
+        "texto": "Senhor Comandante da Guarda Real à época da morte do Rei Viserys I Targaryen e convenceu seu filho, o Príncipe Aegon, a assumir o governo dos Sete Reinos, desafiando o desejo de Viserys, que queria que sua filha, a Princesa Rhaenyra Targaryen, o sucedesse. Isso fez eclodir a Dança dos Dragões, uma guerra civil entre Aegon II e Rhaenyra. O ato de Criston o tornou conhecido na história como o 'Fazedor de Reis'."
+        
+    },
+    {
+        "id": 8,
+        "titulo": "Rhaenys Targaryen",
+        "texto": "Princesa Rhaenys Targaryen, também conhecida entre os plebeus como A Rainha Que Nunca Foi, era a filha do príncipe Aemon Targaryen e da senhora Jocelyn Baratheon. Ela foi casada com Corlys Velaryon de Derivamarca. Ela foi uma cavaleira de dragão que reivindicou Meleys, a Rainha Vermelha."
+        
+    }
+]
