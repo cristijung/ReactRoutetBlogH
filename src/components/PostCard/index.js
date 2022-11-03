@@ -1,6 +1,6 @@
 import styles from './Post.module.css';
 
-//odas as imagens deverão ter o mesmo nome e extensão -- linha 11
+//todas as imagens deverão ter o mesmo nome e extensão -- linha 11
 //{/** Btn provisório */} 
              
 export default function PostCard({ post }) {
