@@ -43,16 +43,18 @@ function Opiniao () {
             });
         }
     }
-
+    //schema assíncrono para fazer a validação dos inputs
     async function validate(){
         let schema = yup.object().shape({
           password: yup.string("Erro: Necessário preencher o campo senha!")
             .required("Erro: Necessário preencher o campo senha!")
             .min(6,"Erro: A senha deve ter no mínimo 6 caracteres!"),
-          email: yup.string("Erro: Necessário preencher o campo e-mail!")
+          
+            email: yup.string("Erro: Necessário preencher o campo e-mail!")
             .required("Erro: Necessário preencher o campo e-mail!")
             .email("Erro: Necessário preencher o campo com e-mail válido!"),
-          name: yup.string("Erro: Necessário preencher o campo nome!")
+          
+            name: yup.string("Erro: Necessário preencher o campo nome!")
             .required("Erro: Necessário preencher o campo nome!")
         });
     
@@ -80,7 +82,7 @@ function Opiniao () {
         {status.type === 'error' ? <p style={{ color: "#ff0000" }}>{status.mensagem}</p> : ""}
         
         <div className={styles.formu}>
-        <form>
+        <form onSubmit={addUser}>
             <div className={styles.field}>
                 <label className={styles.label}>Nome*: </label>
                 <input type="text" name="name" placeholder="Nome do usuário" onChange={valueInput} value={user.name}  />
